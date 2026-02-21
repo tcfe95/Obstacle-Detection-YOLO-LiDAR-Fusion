@@ -112,3 +112,7 @@ Simplicité
 Coût computationnel
 
 
+Notebook available here:
+https://colab.research.google.com/drive/1HR--8BAA1EWBcEWZgdmZd2KW-OpoT64c?usp=sharing
+
+
