@@ -116,12 +116,3 @@ Notebook available here:
 https://colab.research.google.com/drive/1HR--8BAA1EWBcEWZgdmZd2KW-OpoT64c?usp=sharing
 
 
-![Results](assets/result.png)
-
-## 📄 Project Report
-
-The full technical report is available here:
-
-[Download Report](docs/YOLO_LiDAR_Fusion_Report.pdf)
-
-
